@@ -1,0 +1,9 @@
+nav .navigazione ul  {
+    display: flex;
+    
+    align-items: center;
+    list-style-type: none;
+    justify-content: space-between;
+    width: 500px;
+    margin-right: 1em;
+}

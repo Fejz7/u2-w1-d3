@@ -1,0 +1,37 @@
+.honey-card {
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    background-color: #FBF7E3;
+    border-radius: 50px;
+    height: 300px;
+}
+
+#top {
+    display: flex ;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#sx h4 {
+    margin-bottom: 0;
+}
+
+#sx p {
+    margin-top: 0;
+}
+
+#bottom {
+    text-align: center;
+}
+
+.honey-card img {
+    border-top-right-radius: 50px;
+    border-top-left-radius: 50px;
+}
+
+#bottom button {
+border: none;
+background-color: rgb(209, 179, 48);
+border-radius: 5px;
+}
